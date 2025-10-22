@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Perpalator",
   "VITE_SEO_SITE_NAME": "Perpalator",
   "VITE_SEO_SITE_DESCRIPTION": "Cross-Margin DEX protocol optimizing on-chain capital efficiency through zero-collateral architecture.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/perpalator-0177/",
+  "VITE_SEO_SITE_URL": "https://perpalator.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Perpalator",
